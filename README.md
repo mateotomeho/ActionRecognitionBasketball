@@ -62,7 +62,7 @@ This allows the model to specialize in basketball-specific motions.
 
 The repo is organized for clarity and reproducibility:
 
-To be addeed soon...
+To be added soon...
 
 ---
 
