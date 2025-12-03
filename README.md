@@ -92,6 +92,7 @@ To be added soon...
 
 ## 📈 Performance
 
+* The final model achieved a test accuracy of **81.96%**.
 * The R(2+1)D model outperformed the baseline 3D CNN by **+19% absolute accuracy**.
 * RGB frames improved motion/ball detection compared to grayscale.
 * High F1 scores across all classes (≥82%).
